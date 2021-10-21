@@ -49,4 +49,6 @@ Our final component of our regex expression are called qualifiers. Specifically 
 
 ## About the Author
 
-Brandon Sorrell aka BerlicTheHunter is a degreed chemical engineer from the Georgia Institute of Technology holding an MBA from Georgia College and State University. An avid gamer, auto enthusiest, and tech junky, he decided to delve into development though the Georgia Tech Coding Bootcamp to broaden his technical knowledge for both personal and professional fulfillment.  
+Brandon Sorrell aka BerlicTheHunter is a degreed chemical engineer from the Georgia Institute of Technology holding an MBA from Georgia College and State University. An avid gamer, auto enthusiest, and tech junky, he decided to delve into development though the Georgia Tech Coding Bootcamp to broaden his technical knowledge for both personal and professional fulfillment. 
+
+If you want to learn more, check out his [GitHub Profile](https://github.com/BerlicTheHunter)
